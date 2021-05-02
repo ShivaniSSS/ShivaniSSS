@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hi I am Shivani
+
+Reach me at
+[![Linkedin](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&tbnid=JdyXos__tp7KHM&vet=12ahUKEwirus3O1qrwAhUnMbcAHa9pA4YQMygAegUIARDMAQ..i&docid=vLBuaTBzrfpOUM&w=512&h=512&q=linkedin%20icon&ved=2ahUKEwirus3O1qrwAhUnMbcAHa9pA4YQMygAegUIARDMAQ)](https://www.linkedin.com/in/shivani-s-ba5400187/) 
+
 
 <!--
+### Hi there 👋
 **ShivaniSSS/ShivaniSSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
