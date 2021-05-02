@@ -1,7 +1,7 @@
-### Hi I am Shivani
+### Hey!
 
-Reach me at
-[![Linkedin](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.flaticon.com%2Ficons%2Fpng%2F512%2F174%2F174857.png&imgrefurl=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&tbnid=JdyXos__tp7KHM&vet=12ahUKEwirus3O1qrwAhUnMbcAHa9pA4YQMygAegUIARDMAQ..i&docid=vLBuaTBzrfpOUM&w=512&h=512&q=linkedin%20icon&ved=2ahUKEwirus3O1qrwAhUnMbcAHa9pA4YQMygAegUIARDMAQ)](https://www.linkedin.com/in/shivani-s-ba5400187/) 
+📫 >Reach me at:
+[![linkedin icon](https://user-images.githubusercontent.com/48484451/116808955-5b789400-ab59-11eb-8f29-83fc79112144.png)](https://www.linkedin.com/in/shivani-s-ba5400187/) 
 
 
 <!--
