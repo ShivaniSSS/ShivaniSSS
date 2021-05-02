@@ -1,7 +1,7 @@
 ### Hey! :raising_hand:
 
-> Reach me at:
-[![linkedin icon](https://user-images.githubusercontent.com/48484451/116808955-5b789400-ab59-11eb-8f29-83fc79112144.png)](https://www.linkedin.com/in/shivani-s-ba5400187/) 
+ 📫 Reach me at:<br>
+[![linkedin icon](images/linkedin icon.png)](https://www.linkedin.com/in/shivani-s-ba5400187/) 
 
 
 <!--
