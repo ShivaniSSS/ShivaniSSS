@@ -9,8 +9,8 @@
 
 <hr>
 
- ✉️ Reach me at:
- <br>
+✉️Reach me at
+ 
 <img src="https://user-images.githubusercontent.com/48484451/116846688-7bb25c80-ac06-11eb-900c-907333d2df49.png" width=25/>
 
 
