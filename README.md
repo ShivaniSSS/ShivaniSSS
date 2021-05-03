@@ -1,16 +1,17 @@
 ### Hey! :raising_hand:
-<hr>
+<br>
 
 ❣️ Love Competitive Coding
 
  🕴️ Data Science enthusiast
 
 🌱Want to learn Backend development
-
-<hr>
+<br>
 
 Reach me at &nbsp;&nbsp;<img style="float: left;" src="https://user-images.githubusercontent.com/48484451/116846688-7bb25c80-ac06-11eb-900c-907333d2df49.png" width=25/>
+<br>
 
+<img src="https://github-readme-stats-drab-iota.vercel.app/api?username=ShivaniSSS&count_private=true&show_icons=true&layout=compact&theme=nightowl" height="180px" />
 
 <!--
 ### Hi there 👋
