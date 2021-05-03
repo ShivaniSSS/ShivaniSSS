@@ -9,9 +9,7 @@
 
 <hr>
 
-✉️Reach me at
- 
-<img src="https://user-images.githubusercontent.com/48484451/116846688-7bb25c80-ac06-11eb-900c-907333d2df49.png" width=25/>
+Reach me at &nbsp;&nbsp;<img style="float: left;" src="https://user-images.githubusercontent.com/48484451/116846688-7bb25c80-ac06-11eb-900c-907333d2df49.png" width=25/>
 
 
 <!--
